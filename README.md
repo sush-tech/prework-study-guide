@@ -5,7 +5,7 @@ Why did you build this project? (Note: the answer is not "Because it was a homew
 What problem does it solve?
 What did you learn?
 What makes your project stand out?
-
+Your README might also describe some of the challenges you faced, as well as the features you plan to implement in the future. And if your project is deployed, make sure to include a link to the deployed application so people can see it in action!
 ## Description
 
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
